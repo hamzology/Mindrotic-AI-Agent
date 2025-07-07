@@ -46,4 +46,8 @@ Once the server is running, open your browser and go to `http://localhost:3000`.
 
 After submitting the form, wait for the AI agent to analyze the task. The agent will provide a summary and a plan that you can review before execution. You can confirm the execution of the plan, and the agent will display logs and results in real time.
 
+<<<<<<< HEAD
 ✨ Note: The quality of results depends on the LLM (Large Language Model) API you use. This project was tested with the DeepSeek API in a Linux environment and delivered promising outcomes.
+=======
+✨ Note: The quality of results depends on the LLM (Large Language Model) API you use. This project was tested with the DeepSeek API in a Linux environment and delivered promising outcomes.
+>>>>>>> ca2fa03 (Initial commit of Mindrotic-AI-Agent)
